@@ -1,0 +1,1 @@
+url = 'https://api.example.com/data?apiKey=' + api_key + '&intensity=' + intensity + '&likelihood=' + likelihood + '&relevance=' + relevance + '&year=' + year + '&country=' + country + '&topics=' + topics + '&region=' + region + '&city=' + city
